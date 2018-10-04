@@ -69,7 +69,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Bros Before Giraffes is a team of independant game developers focused on developing the best in affordable games with a very particular kind of humor.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1012,7 +1012,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Creator Description",
+        "meta_descr": "Games published by BrosBeforeGiraffes",
         "title": "Games",
         "order": 4
       },
@@ -1657,7 +1657,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Meet the boys",
         "title": "About Us",
         "order": 5
       },
@@ -2173,7 +2173,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Here's how to contact us!",
         "title": "Contact",
         "order": 6
       },
@@ -2676,7 +2676,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Web Creator Description",
+        "meta_descr": "RED HOT VENGEANCE is a twin stick top down shooter inspired by games like Max Payne and Hotline Miami. It features tight controls, exhilerating combat, and a gritty storyline featuring motion comic cutscenes. This game is the first fully joint project between Alex Dahlgren and Max Townsed.",
         "title": "RED",
         "order": 3
       },
@@ -3168,7 +3168,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "If we are ever quiet we're usually hard at work on some cool stuff. \n\nWe try to keep everyone posted on our development process as much as possible. \n\nThe best way to stay up to date with everything we do is to follow us on twitter and youtube where we post devlogs and updates as often as we can.",
         "title": "In Development",
         "order": 2
       },
@@ -3695,7 +3695,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Mobster Bar Brawl is a sprite based first person shooter with a modern spin on the classic fps genre. It features a goofy vector based art style, tight shooting mechanics, and an absurd over the top setting.",
         "title": "MobsterBarBrawl",
         "order": 1
       },

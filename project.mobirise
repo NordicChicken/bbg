@@ -68,7 +68,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "BrosBeforeGiraffes",
         "meta_descr": "Bros Before Giraffes is a team of independant game developers focused on developing the best in affordable games with a very particular kind of humor.",
         "header_custom": "",
         "footer_custom": "",
@@ -2677,7 +2677,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "RED HOT VENGEANCE is a twin stick top down shooter inspired by games like Max Payne and Hotline Miami. It features tight controls, exhilerating combat, and a gritty storyline featuring motion comic cutscenes. This game is the first fully joint project between Alex Dahlgren and Max Townsed.",
-        "title": "RED",
+        "title": "RED HOT VENGEANCE",
         "order": 3
       },
       "components": [
